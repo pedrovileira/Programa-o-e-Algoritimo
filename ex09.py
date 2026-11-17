@@ -1,9 +1,7 @@
-################################################################
-# Descrição: Soma os números pares existentes de 1 até 500.     #
-# Parâmetros de entrada: Não há.                                #
-# Valores de saída: Soma de todos os números pares da faixa.   #
-# Autor: Pedro Vileira                                         #
-################################################################
+# Descrição: Soma os números pares existentes de 1 até 500. #
+# Parâmetros de entrada: Não há. #
+# Valores de saída: Soma de todos os números pares da faixa. #
+# Autor: Pedro Silva. #
 
 soma = 0
 
