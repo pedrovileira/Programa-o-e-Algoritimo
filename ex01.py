@@ -1,9 +1,7 @@
-################################################################
 # Descrição: Solicita dois números e mostra qual deles é maior. #
 # Parâmetros de entrada: Dois números informados pelo usuário. #
 # Valores de saída: O maior número ou uma mensagem de igualdade.#
-# Autor: Pedro Vileira                                        #
-################################################################
+# Autor: Pedro Silva                                       #
 
 numero1 = float(input("Digite o primeiro número: "))
 numero2 = float(input("Digite o segundo número: "))
